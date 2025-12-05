@@ -29,6 +29,11 @@ body {
     -webkit-backdrop-filter: blur(10px); 
     z-index: 100;
 }
+.both-center{
+    background-color: #f7a59c;
+    margin-left: -20px;
+    padding-bottom: 25px;
+}
 
 .sidebar {
     color: white;
@@ -291,7 +296,7 @@ body {
     width: 30%;
     text-align: center;
     color: white;
-    border: 1px solid #77E4FC;
+    
     transition: transform 0.3s;
 }
 
